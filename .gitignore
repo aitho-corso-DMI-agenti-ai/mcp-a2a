@@ -1,0 +1,5 @@
+.env
+.venv
+*.pptx
+__marimo__
+__pycache__
