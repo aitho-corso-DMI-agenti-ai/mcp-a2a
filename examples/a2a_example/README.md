@@ -2,6 +2,8 @@
 
 This sample demonstrates a currency conversion agent built with [LangGraph](https://langchain-ai.github.io/langgraph/) and exposed through the A2A protocol. It showcases conversational interactions with support for multi-turn dialogue and streaming responses.
 
+This sample is taken from the official [A2A Repository on GitHub](https://github.com/google-a2a/A2A/tree/09c36bd94f74ea1a1a4e0db5f65ba12b102171ba/samples/python/agents/langgraph).
+
 ## How It Works
 
 This agent uses LangGraph with OpenAI to provide currency exchange information through a ReAct agent pattern. The A2A protocol enables standardized interaction with the agent, allowing clients to send requests and receive real-time updates.

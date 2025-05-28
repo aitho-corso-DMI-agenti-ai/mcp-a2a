@@ -1,4 +1,4 @@
-# LLMs and LangChain introduction
+# Model Context Protocol (MCP) & Agent-to-Agent Protocol (A2A)
 
 This repository contains example notebooks for the 2025 course [Agenti Intelligenti e Machine Learning (AiTHO)](https://web.dmi.unict.it/it/corsi/l-31/agenti-intelligenti-e-machine-learning-aitho), focusing on MCP and A2A.
 
