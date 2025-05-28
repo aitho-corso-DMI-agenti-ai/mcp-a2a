@@ -321,4 +321,3 @@ data: {"jsonrpc":"2.0","id":12,"result":{"id":"131","status":{"state":"completed
 - [A2A Protocol Documentation](https://google.github.io/A2A/#/documentation)
 - [LangGraph Documentation](https://langchain-ai.github.io/langgraph/)
 - [Frankfurter API](https://www.frankfurter.app/docs/)
-- [Google Gemini API](https://ai.google.dev/gemini-api)
