@@ -200,7 +200,7 @@ async def completeTask(
 
     # If the agent uses push notifications, add the push notification configuration
     if use_push_notifications:
-        payload['pushNotification'] = {
+        payload.metadata = {
             'url': f'http://{notification_receiver_host}:{notification_receiver_port}/notify',
             'authentication': {
                 'schemes': ['bearer'],
